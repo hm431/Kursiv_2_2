@@ -1,0 +1,13 @@
+Piterochka;shop;c_8:00_до_23:30;true;true;false;network;4.1
+Crossroad;shop;c_8:00_до_23:30;false;true;false;network;4.2
+Yakitoria;restaurant;c_8:00_до_23:30;true;true;false;network;4.3
+Shop at home;shop;c_9:00_до_22:00;false;true;false;ones;4.4
+Hochu_Shaurmu;restaurant;c_8:00_до_23:30;false;true;true;network;3.0
+Shaurma 24;restaurant;c_9:00_до_23:30;false;true;false;ones;4.5
+Burger-King;restaurant;c_9:00_до_23:30;true;true;false;network;3.9
+KFC;restaurant;c_9:05_до_23:45;true;true;false;network;4.3
+Shockoladnica;restaurant;c_8:00_до_23:30;true;true;false;network;3.1
+Gastronom_24;shop;c_0:00_до_00:00;false;false;false;ones;5.0
+DoDo_pizza;restaurant;c_8:00_до_23:30;true;true;false;network;3.6
+Vegeterian_food;shop;c_8:00_до_23:30;0;true;false;ones;4.3
+Vkusno_i_probel;restaurant;c_6:00_до_23:30;true;true;false;network;1.0
